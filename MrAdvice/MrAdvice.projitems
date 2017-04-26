@@ -58,6 +58,8 @@
     <Compile Include="$(MSBuildThisFileDirectory)Invocation.Pointcuts.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Pointcut\PointcutSelector.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Pointcut\PointcutSelectorRule.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Reflection\EmittedOpCode.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Reflection\ILReader.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Threading\TaskAccessor.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Threading\TaskCompletionSource.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Threading\TaskCompletionSourceImplementation.cs" />
